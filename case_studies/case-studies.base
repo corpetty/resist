@@ -1,0 +1,37 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("case_studies")
+        - '!file.inFolder("case_studies/_templates")'
+        - file.name != "index"
+        - file.name != "case-studies.base"
+    order:
+      - title
+      - type
+      - outcome
+      - themes
+      - estimated_participants
+      - status
+    columnSize:
+      note.title: 237
+      note.type: 115
+      note.themes: 267
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.inFolder("case_studies")
+        - '!file.inFolder("case_studies/_templates")'
+        - file.name != "index"
+        - file.name != "case-studies.base"
+    order:
+      - title
+      - primary_issue
+      - type
+      - tactics
+      - status
+      - regime_type
+      - outcome
+    cardSize: 500
