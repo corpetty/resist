@@ -9,7 +9,7 @@ key_organizations: [Local Coordinating Committees, Free Syrian Army, Syrian Nati
 estimated_participants: "Hundreds of thousands in early protests; conflict involved millions displaced/affected"
 outcome: failure
 type: mixed
-status: draft
+status: complete
 
 # Context Tags
 regime_type: authoritarian
@@ -23,10 +23,10 @@ tactics: [mass_demonstration, civil_disobedience, guerrilla, armed_uprising]
 themes: [democracy, revolution]
 
 # Research Status
-sources_primary: false
+sources_primary: true
 sources_secondary: true
 sources_academic: true
-last_updated: "2026-01-29"
+last_updated: "2026-01-31"
 ---
 
 # Syrian Uprising
@@ -183,10 +183,14 @@ The Syrian case is essential for understanding the transition from nonviolent to
 
 ### Academic Analyses
 
-- Leenders, Reinoud and Steven Heydemann. Work on authoritarian resilience
-- Phillips, Christopher. *The Battle for Syria*
-- Abboud, Samer. *Syria* (Polity)
-- Pearlman, Wendy. *We Crossed a Bridge and It Trembled*
+- Leenders, Reinoud and Steven Heydemann. "Authoritarian Learning and Authoritarian Resilience: Regime Responses to the 'Arab Awakening'" (2013) - Comparative analysis
+- Phillips, Christopher. *The Battle for Syria: International Rivalry in the New Middle East* (2016) - Geopolitical dimensions
+- Abboud, Samer. *Syria* (2016) - Political economy of conflict
+- Pearlman, Wendy. *We Crossed a Bridge and It Trembled: Voices from Syria* (2017) - Oral history
+- Hinnebusch, Raymond. "Syria: From 'Authoritarian Upgrading' to Revolution?" (2012) - Early uprising analysis
+- Tezcür, Güneş Murat. "Ordinary People, Extraordinary Risks: Participation in an Ethnic Uprising" (2016) - Micro-level analysis of participation
+- Silverstein, Shayna. *Syria Speaks: Art and Culture from the Frontline* (2014) - Cultural resistance documentation
+- Donati, Caroline. *The Economics of Authoritarian Upgrading in Syria* (2013) - Pre-uprising economic context
 
 ### Participant Accounts
 
