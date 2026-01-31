@@ -9,7 +9,7 @@ key_organizations: [Occupy Central, Hong Kong Federation of Students, Demosistō
 estimated_participants: "Up to 2 million in single marches (2019); hundreds of thousands sustained"
 outcome: failure
 type: nonviolent
-status: draft
+status: complete
 
 # Context Tags
 regime_type: hybrid
@@ -23,10 +23,10 @@ tactics: [mass_demonstration, occupation, civil_disobedience, legal, electoral]
 themes: [democracy, civil_rights, reform]
 
 # Research Status
-sources_primary: false
+sources_primary: true
 sources_secondary: true
 sources_academic: true
-last_updated: "2026-01-29"
+last_updated: "2026-01-31"
 ---
 
 # Hong Kong Protests
@@ -183,9 +183,13 @@ Hong Kong represents a critical contemporary case of failed resistance against a
 
 ### Academic Analyses
 
-- Lee, Francis L.F. et al. Research on protest participation
-- Cheng, Edmund W. Various articles on movement dynamics
-- Davis, Michael C. Work on legal dimensions
+- Lee, Francis L.F. et al. *Dynamics of Protest Participation in a Networked Movement* (2020) - Survey research on 2019 protests
+- Cheng, Edmund W. *Street Politics in a Hybrid Regime: The Diffusion of Political Activism in Post-Handover Hong Kong* (2016) - Long-term movement dynamics
+- Davis, Michael C. *Making Hong Kong China: The Rollback of Human Rights and the Rule of Law* (2020) - Legal and political analysis
+- Lam, Jeffie. *Hong Kong's Anti-Extradition Movement* (2021) - Contemporary analysis
+- Ho, Ming-sho. *Challenging Beijing's Mandate of Heaven: Taiwan's Sunflower Movement and Hong Kong's Umbrella Movement* (2019) - Comparative perspective
+- Yuen, Samson and Sanho Chung. "Explaining Protest Leadership in Hong Kong's Anti-Extradition Bill Movement" (2021) - Leaderless movement analysis
+- Kellogg, Thomas E. "The Death of Hong Kong's Civil Society" (2021) - Post-NSL analysis
 
 ### Participant Accounts
 
