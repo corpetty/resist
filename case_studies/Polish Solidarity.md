@@ -9,7 +9,7 @@ key_organizations: [Solidarity (Solidarność), KOR (Workers' Defence Committee)
 estimated_participants: "10 million members at peak (1981)"
 outcome: success
 type: nonviolent
-status: draft
+status: complete
 
 # Context Tags
 regime_type: authoritarian
@@ -23,10 +23,10 @@ tactics: [strike, civil_disobedience, underground, electoral]
 themes: [labor, democracy, reform]
 
 # Research Status
-sources_primary: false
+sources_primary: true
 sources_secondary: true
 sources_academic: true
-last_updated: "2026-01-29"
+last_updated: "2026-01-31"
 ---
 
 # Polish Solidarity
@@ -183,10 +183,14 @@ Solidarity's success helped trigger the cascade of revolutions across Eastern Eu
 
 ### Academic Analyses
 
-- Kenney, Padraic. *A Carnival of Revolution*
-- Ekiert, Grzegorz. *The State Against Society*
-- Staniszkis, Jadwiga. *Poland's Self-Limiting Revolution*
-- Goodwyn, Lawrence. *Breaking the Barrier*
+- Kenney, Padraic. *A Carnival of Revolution* (2002) - Comparative Eastern European movements
+- Ekiert, Grzegorz. *The State Against Society: Political Crises and Their Aftermath in East Central Europe* (1996) - Comparative political analysis
+- Staniszkis, Jadwiga. *Poland's Self-Limiting Revolution* (1984) - Contemporary analysis of movement dynamics
+- Goodwyn, Lawrence. *Breaking the Barrier: The Rise of Solidarity in Poland* (1991) - Detailed organizational history
+- Ost, David. *Solidarity and the Politics of Anti-Politics: Opposition and Reform in Poland Since 1968* (1990) - Civil society approach
+- Laba, Roman. *The Roots of Solidarity: A Political Sociology of Poland's Working-Class Democratization* (1991) - Working-class agency
+- Bernhard, Michael. *The Origins of Democratization in Poland* (1993) - Structural and strategic analysis
+- Touraine, Alain et al. *Solidarity: The Analysis of a Social Movement: Poland 1980-1981* (1983) - Contemporary sociological study
 
 ### Participant Accounts
 
