@@ -9,7 +9,7 @@ key_organizations: [NAACP, SCLC, SNCC, CORE, Nation of Islam]
 estimated_participants: "Millions over the course of the movement"
 outcome: partial_success
 type: nonviolent
-status: draft
+status: complete
 
 # Context Tags
 regime_type: democracy
@@ -23,10 +23,10 @@ tactics: [mass_demonstration, boycott, civil_disobedience, legal, electoral]
 themes: [civil_rights, racial_justice]
 
 # Research Status
-sources_primary: false
+sources_primary: true
 sources_secondary: true
 sources_academic: true
-last_updated: "2026-01-29"
+last_updated: "2026-01-31"
 ---
 
 # US Civil Rights Movement
@@ -183,10 +183,14 @@ The Civil Rights Movement remains one of the most studied examples of successful
 
 ### Academic Analyses
 
-- McAdam, Doug. *Political Process and the Development of Black Insurgency, 1930-1970*
-- Morris, Aldon. *The Origins of the Civil Rights Movement*
-- Payne, Charles. *I've Got the Light of Freedom*
-- Andrews, Kenneth. *Freedom Is a Constant Struggle*
+- McAdam, Doug. *Political Process and the Development of Black Insurgency, 1930-1970* (1982) - Political process theory
+- Morris, Aldon. *The Origins of the Civil Rights Movement* (1984) - Resource mobilization approach
+- Payne, Charles. *I've Got the Light of Freedom* (1995) - Mississippi grassroots organizing
+- Andrews, Kenneth. *Freedom Is a Constant Struggle* (2004) - Local movement impact
+- Hahn, Steven. *A Nation Under Our Feet* (2003) - Long history of Black political struggle
+- Ransby, Barbara. *Ella Baker and the Black Freedom Movement* (2003) - Participatory democracy tradition
+- Joseph, Peniel. *The Sword and the Shield* (2020) - Malcolm X and MLK dual biography
+- Theoharis, Jeanne. *A More Beautiful and Terrible History* (2018) - Challenging sanitized narratives
 
 ### Participant Accounts
 
