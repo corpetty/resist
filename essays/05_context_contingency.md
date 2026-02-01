@@ -13,7 +13,7 @@ last_updated: "2026-02-01"
 
 After [[Tunisian Revolution]] succeeded in January 2011, activists across the Middle East thought they'd found a formula. Organize via social media, occupy central squares, maintain nonviolent discipline, demand democratic change. It worked in Tunisia—why not everywhere?
 
-[[Egyptian Revolution 2011]] seemed to validate this: Tahrir Square occupation, Mubarak fell, democracy incoming. Then everything diverged. Egypt's military coup. [[Syrian Uprising]] descent into civil war. [[Bahrain Uprising]] crushed with Saudi tanks. [[Yemen Uprising]] producing ongoing catastrophe.
+[[Egyptian Revolution 2011]] seemed to validate this: Tahrir Square occupation, Mubarak fell, democracy incoming. Then everything diverged. Egypt's military coup. [[Syrian Uprising]] descent into civil war. Bahrain uprising crushed with Saudi tanks. Yemen uprising producing ongoing catastrophe.
 
 Same tactics, similar demographics (youth-led, social media coordinated, Middle Eastern autocracies), completely different outcomes. Why?
 
@@ -27,23 +27,23 @@ This essay examines why resistance strategies are profoundly context-dependent, 
 
 **Military professionalism:** Tunisian military had no business interests, limited political role, professional ethos. When protests erupted, military refused to massacre civilians. Not because generals were democratic heroes—because institutional structure didn't give them interest in protecting Ben Ali.
 
-Compare [[Egypt]]: military had vast business empire, saw itself as guardian of state. Initially tolerated protests to remove Mubarak (who threatened their interests via family succession), but then hijacked transition to protect institutional power. Same "nonviolent uprising removes dictator" story, radically different outcome because of military's structural position.
+Compare [[Egyptian Revolution 2011]]: military had vast business empire, saw itself as guardian of state. Initially tolerated protests to remove Mubarak (who threatened their interests via family succession), but then hijacked transition to protect institutional power. Same "nonviolent uprising removes dictator" story, radically different outcome because of military's structural position.
 
 **Social homogeneity:** Tunisia is 99% Sunni Muslim, ethnically Arab with Berber minority. No sectarian divisions for regime to exploit. When economic grievances united people, they actually united.
 
-[[Syria]]: Alawite-dominated regime, Sunni majority, Kurdish minority, Christian minority. Assad exploited sectarian fears—Sunnis would massacre Alawites if regime fell. This fractured opposition along identity lines violence intensified. Tactics couldn't overcome structural sectarianism.
+[[Syrian Uprising]]: Alawite-dominated regime, Sunni majority, Kurdish minority, Christian minority. Assad exploited sectarian fears—Sunnis would massacre Alawites if regime fell. This fractured opposition along identity lines violence intensified. Tactics couldn't overcome structural sectarianism.
 
 **Small state size:** Tunisia (12 million people) meant protests in capital mattered more. Economic pressure concentrated. Information traveled faster. Coordination easier.
 
-[[Syria]]: 23 million, geographically larger, more rural. Damascus protests didn't paralyze whole country. Regime could mobilize Alawite base, rural populations, crush urban protests piecemeal.
+[[Syrian Uprising]]: 23 million, geographically larger, more rural. Damascus protests didn't paralyze whole country. Regime could mobilize Alawite base, rural populations, crush urban protests piecemeal.
 
 **Professional class organization:** Tunisian Professionals Association (doctors, lawyers, teachers) provided organizational capacity for coordinating strikes that nonviolent protests alone wouldn't achieve.
 
-[[Egypt]]: Professional class less organized, labor unions state-controlled. Workers joined protests but organizational infrastructure weaker. After Mubarak fell, no institutions to contest military.
+[[Egyptian Revolution 2011]]: Professional class less organized, labor unions state-controlled. Workers joined protests but organizational infrastructure weaker. After Mubarak fell, no institutions to contest military.
 
 **Ben Ali isolation:** Ben Ali was international pariah with France/US relationship but not deep backing. Once he seemed vulnerable, France/US didn't protect him.
 
-[[Bahrain]]: Monarchy had deep Saudi/GCC backing. When protests threatened regime, Saudi Arabia sent tanks. External support made regime unshakeable by domestic protests alone.
+Bahrain: Monarchy had deep Saudi/GCC backing. When protests threatened regime, Saudi Arabia sent tanks. External support made regime unshakeable by domestic protests alone.
 
 **Timing and demonstration effects:** Tunisia went first, surprising everyone including Ben Ali. Later uprisings faced regimes learning from Tunisia—more prepared, less likely to flee.
 
@@ -67,7 +67,7 @@ Whether elites split determines whether protests can succeed. Movements can't cr
 
 **Geopolitical context:**
 - [[Velvet Revolution]], [[Polish Solidarity]], [[East German Revolution]]: Gorbachev's non-intervention meant 1989 uprisings succeeded.
-- [[Hungarian Revolution 1956]]: Soviet tanks crushed it. Same geography, different Soviet policy, different outcome.
+- 1956 Hungarian Revolution: Soviet tanks crushed it. Same geography, different Soviet policy, different outcome.
 
 - [[Hong Kong Protests]]: Beijing's determination to maintain control plus international unwillingness to confront China meant tactics that worked elsewhere couldn't work there.
 
@@ -129,7 +129,7 @@ Activists trying to learn from successful cases face several problems:
 
 **Overgeneralization:** Drawing universal lessons from specific cases ignores context dependency.
 
-Gene Sharp's *From Dictatorship to Democracy* synthesizes nonviolent tactics from many cases. Valuable framework. But treating it as universal manual ignores that tactics work differently in different contexts. What worked in [[Poland]] (Catholic Church sanctuary) doesn't exist in China. What worked in [[Tunisia]] (military neutrality) didn't exist in [[Syria]].
+Gene Sharp's *From Dictatorship to Democracy* synthesizes nonviolent tactics from many cases. Valuable framework. But treating it as universal manual ignores that tactics work differently in different contexts. What worked in [[Polish Solidarity]] (Catholic Church sanctuary) doesn't exist in China. What worked in [[Tunisia]] (military neutrality) didn't exist in [[Syrian Uprising]].
 
 ## Transferable vs. Context-Specific Elements
 
@@ -165,7 +165,7 @@ Given this, how should movements approach strategy?
 
 **2. Learn principles, not tactics.**
 
-From [[Montgomery Bus Boycott]], learn: economic leverage through concentrated withdrawal of participation, sustaining coordination through institutional infrastructure (churches), translating grievance into organized campaign.
+From the Montgomery Bus Boycott, learn: economic leverage through concentrated withdrawal of participation, sustaining coordination through institutional infrastructure (churches), translating grievance into organized campaign.
 
 Don't learn: organize bus boycott (that was specific tactic in specific context).
 
@@ -213,8 +213,8 @@ This doesn't mean strategy is impossible or lessons useless. It means:
 - [[Tunisian Revolution]] - Successful context convergence
 - [[Egyptian Revolution 2011]] - Different military context
 - [[Syrian Uprising]] - Sectarian divisions, regime ruthlessness
-- [[Bahrain Uprising]] - External backing (Saudi) prevented success
-- [[Yemen Uprising]] - Ongoing catastrophe
+- Bahrain uprising - External backing (Saudi) prevented success
+- Yemen uprising - Ongoing catastrophe
 - [[Belarus 2020]] - Strong regime capacity, Russia backing
 - [[Velvet Revolution]] - Gorbachev's non-intervention
 - [[People Power Philippines]] - Military defection
@@ -227,7 +227,7 @@ This doesn't mean strategy is impossible or lessons useless. It means:
 - [[Indian Independence]] - Cultural resources (ahimsa)
 - [[Algerian Independence]] - Armed struggle context
 - [[Serbian Otpor]] - Studied success hiding context
-- [[Montgomery Bus Boycott]] - Economic leverage principles
+- the Montgomery Bus Boycott - Economic leverage principles
 
 ---
 

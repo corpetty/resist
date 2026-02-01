@@ -65,7 +65,7 @@ Successful movements build organizational capacity:
 
 [[Sudanese Revolution]] resistance committees provided neighborhood-level organization that persisted even after 2021 coup. Distributed structure with clear decision processes.
 
-**Accountability:** Leaders answerable to membership. [[Montgomery Bus Boycott]] leadership (MIA—Montgomery Improvement Association) reported to mass meetings. King wasn't dictator—community could remove him.
+**Accountability:** Leaders answerable to membership. the Montgomery Bus Boycott leadership (MIA—Montgomery Improvement Association) reported to mass meetings. King wasn't dictator—community could remove him.
 
 [[Serbian Otpor]] used cells with loose coordination. Each cell accountable to participants, but no single person could speak for whole movement without consensus.
 
@@ -147,7 +147,7 @@ How to organize resistance democratically:
 
 **3. Transparency:** Decision-making processes visible to membership. Resources tracked openly. Prevents informal power concentration.
 
-**4. Accountability mechanisms:** Leaders report to membership. Can be recalled/removed. [[Montgomery Bus Boycott]] mass meetings provided accountability—leaders reported progress, membership gave feedback.
+**4. Accountability mechanisms:** Leaders report to membership. Can be recalled/removed. the Montgomery Bus Boycott mass meetings provided accountability—leaders reported progress, membership gave feedback.
 
 **5. Training and skill-sharing:** Distribute organizational knowledge. Don't let it concentrate in few people. [[US Civil Rights Movement]] trained generations of organizers.
 
@@ -200,7 +200,7 @@ Winning movements build accountable, democratic structures that enable sustained
 - [[Sudanese Revolution]] - Resistance committees
 - [[Serbian Otpor]] - Decentralized cells
 - [[Indian Independence]] - Congress party infrastructure
-- [[Montgomery Bus Boycott]] - MIA accountability
+- the Montgomery Bus Boycott - MIA accountability
 - [[Chilean Resistance to Pinochet]] - Long-term organizational memory
 - [[Egyptian Revolution 2011]] - Spontaneous mobilization + limits
 - [[Velvet Revolution]] - Rapid coordination

@@ -95,7 +95,7 @@ Armed resistance fundamentally changes movement structure and culture in ways th
 
 **Skills mismatch:** People good at guerrilla warfare aren't necessarily good at democratic governance. [[Algerian Independence]] and [[Iranian Revolution]] both produced post-independence governments dominated by military/militia leaders whose authoritarian habits persisted.
 
-[[Zimbabwe Independence]] achieved via armed struggle (ZANU/ZAPU guerrilla war) but produced Mugabe dictatorship that, while initially popular, degenerated into oppression and economic collapse. The liberation army became ruling party militia. Guns didn't disappear—they just changed who they pointed at.
+Zimbabwe independence achieved via armed struggle (ZANU/ZAPU guerrilla war) but produced Mugabe dictatorship that, while initially popular, degenerated into oppression and economic collapse. The liberation army became ruling party militia. Guns didn't disappear—they just changed who they pointed at.
 
 **Dehumanization:** Training people to kill requires dehumanization of enemies. This psychology doesn't just switch off when fighting ends. It bleeds into post-conflict politics.
 
@@ -125,7 +125,7 @@ This is particularly true in geopolitical context where powers want to prevent "
 
 Nonviolent campaigns can demobilize when they win or strategic pause is needed. Armed resistance creates dynamics harder to reverse.
 
-**Weapons don't disappear.** After [[Algerian Independence]], FLN had armed forces that became military dictatorship. [[Mozambique Independence]] via FRELIMO armed struggle produced one-party state. The guns don't just go away when fighting ends.
+**Weapons don't disappear.** After [[Algerian Independence]], FLN had armed forces that became military dictatorship. Mozambique independence via FRELIMO armed struggle produced one-party state. The guns don't just go away when fighting ends.
 
 **Militias become warlords.** If armed resistance succeeds in fragmenting state control but doesn't win outright, you get warlordism. [[Syrian Uprising]] produced dozens of armed factions. Even if Assad falls, reconstituting state will be nightmarish with all these armed groups.
 

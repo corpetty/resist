@@ -27,7 +27,7 @@ This essay examines when individual acts matter, why those opportunities aren't 
 
 Think of power as flowing through systems like electricity through circuits. Numerical power is like voltage—increasing numbers increases force. Structural power is like finding the circuit breaker—one person in the right place can shut the whole thing down.
 
-**Numerical power** depends on scale. The [[Montgomery Bus Boycott]] worked because tens of thousands of Black residents stopped riding buses simultaneously for 381 days. Remove half the participants and the boycott fails—buses would still run profitably. The power came from mass withdrawal of compliance.
+**Numerical power** depends on scale. The the Montgomery Bus Boycott worked because tens of thousands of Black residents stopped riding buses simultaneously for 381 days. Remove half the participants and the boycott fails—buses would still run profitably. The power came from mass withdrawal of compliance.
 
 **Structural power** depends on position. One person occupying a critical node in a system can have disproportionate impact regardless of numbers. A power plant worker turning off the grid. A judge issuing a ruling. A general refusing an order. A programmer sabotaging code.
 
@@ -65,7 +65,7 @@ Václav Havel leveraged his status as prominent playwright-dissident in [[Velvet
 
 These acts work when they resonate with existing collective anger and organizational capacity. Bouazizi's death mattered because Tunisian Professional Association and resistance networks could channel outrage into sustained action. Self-immolations happen in many contexts without sparking revolutions—the difference is whether infrastructure exists to convert individual sacrifice into collective mobilization.
 
-Rosa Parks wasn't the first Black woman arrested for refusing segregated seating. She was chosen by [[Montgomery Bus Boycott]] organizers because her character made her a sympathetic case and because organizational infrastructure existed to build around her arrest. The individual act mattered because of collective readiness.
+Rosa Parks wasn't the first Black woman arrested for refusing segregated seating. She was chosen by the Montgomery Bus Boycott organizers because her character made her a sympathetic case and because organizational infrastructure existed to build around her arrest. The individual act mattered because of collective readiness.
 
 ## The Catch: Access and Opportunity
 
@@ -161,7 +161,7 @@ Violence leverages fear and destruction. This changes everything about who suppo
 - [[US Civil Rights Movement]] - Platform leverage and individual leadership
 - [[Velvet Revolution]] - Havel's credibility and moral authority
 - [[Tunisian Revolution]] - Bouazizi's sacrifice and UGTT coordination
-- [[Montgomery Bus Boycott]] - Rosa Parks and organizational readiness
+- the Montgomery Bus Boycott - Rosa Parks and organizational readiness
 - [[Iranian Revolution]] - Military defection in collective context
 - [[Polish Solidarity]] - Everyday resistance and distributed structure
 - [[South African Anti-Apartheid]] - Cultural resistance over decades

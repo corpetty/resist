@@ -58,7 +58,7 @@ Accommodation produces imperfect outcomes—[[South African Anti-Apartheid]] end
 
 **Theory:** Withdraw cooperation regime depends on → system can't function → regime forced to concede or collapse.
 
-**Examples:** [[Montgomery Bus Boycott]] made segregated buses economically unviable. [[Polish Solidarity]] strikes shut down industries. [[Tunisian Revolution]] professional strikes and protests paralyzed government.
+**Examples:** the Montgomery Bus Boycott made segregated buses economically unviable. [[Polish Solidarity]] strikes shut down industries. [[Tunisian Revolution]] professional strikes and protests paralyzed government.
 
 **When it works:** Requires:
 - Clear leverage points (economic, administrative, social)
@@ -185,7 +185,7 @@ Some contexts offer no viable victory mechanism:
 
 [[Myanmar 2021]]: Military won't negotiate, can coerce population, has Chinese/Russian backing, isn't disintegrating, can't be converted.
 
-[[Syria]]: Assad ruthless, Russia/Iran backing, opposition fragmented, military loyal, international intervention favoring regime.
+[[Syrian Uprising]]: Assad ruthless, Russia/Iran backing, opposition fragmented, military loyal, international intervention favoring regime.
 
 [[Belarus 2020]]: Lukashenko has Russia backing, security forces loyal, torture works for coercion, won't accommodate.
 
@@ -219,7 +219,7 @@ Understanding which mechanisms are possible in your context, building capacity f
 ## References
 
 ### Case Studies
-- [[Montgomery Bus Boycott]] - Noncooperation mechanism
+- the Montgomery Bus Boycott - Noncooperation mechanism
 - [[US Civil Rights Movement]] - Multiple mechanisms
 - [[Indian Independence]] - All five mechanisms
 - [[Polish Solidarity]] - Combined approach

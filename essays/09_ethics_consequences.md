@@ -115,7 +115,7 @@ Incrementalism vs. revolution is false binary—depends on whether incremental p
 
 What's reasonable to ask of people suffering oppression?
 
-**Heroic sacrifice:** [[Montgomery Bus Boycott]] participants walked miles to work for year rather than ride segregated buses. Enormous sacrifice—but time-limited, clear goal, collective sharing of burden.
+**Heroic sacrifice:** the Montgomery Bus Boycott participants walked miles to work for year rather than ride segregated buses. Enormous sacrifice—but time-limited, clear goal, collective sharing of burden.
 
 **Sustained sacrifice:** [[Polish Solidarity]] members risked careers, imprisonment, families' welfare for nine years. Some imprisoned, some killed. Fair to ask this?
 
@@ -135,7 +135,7 @@ I don't have clean answer. But principles:
 
 When resistance succeeds, what ethical obligations exist toward former opponents?
 
-**Retribution:** [[French Resistance]] executed collaborators post-liberation. [[Algerian Independence]] FLN purged "collaborators." Natural impulse—but risks cycles of violence.
+**Retribution:** French Resistance executed collaborators post-liberation. [[Algerian Independence]] FLN purged "collaborators." Natural impulse—but risks cycles of violence.
 
 **Accountability:** [[South African Anti-Apartheid]] Truth and Reconciliation Commission attempted accountability without retribution. Imperfect—many victims felt justice denied. But prevented revenge killings.
 
@@ -209,7 +209,7 @@ Ethics and strategy intersect: choosing tactics with best chance of success whil
 ## References
 
 ### Case Studies Referenced
-- [[Algerian Independence]], [[Indian Independence]], [[Tunisian Revolution]], [[Syrian Uprising]], [[Chilean Resistance to Pinochet]], [[Iranian Revolution]], [[Egyptian Revolution 2011]], [[Sudanese Revolution]], [[US Civil Rights Movement]], [[Hong Kong Protests]], [[Montgomery Bus Boycott]], [[Polish Solidarity]], [[South African Anti-Apartheid]], [[French Resistance]], [[Velvet Revolution]], [[East German Revolution]], [[Myanmar 2021]]
+- [[Algerian Independence]], [[Indian Independence]], [[Tunisian Revolution]], [[Syrian Uprising]], [[Chilean Resistance to Pinochet]], [[Iranian Revolution]], [[Egyptian Revolution 2011]], [[Sudanese Revolution]], [[US Civil Rights Movement]], [[Hong Kong Protests]], the Montgomery Bus Boycott, [[Polish Solidarity]], [[South African Anti-Apartheid]], French Resistance, [[Velvet Revolution]], [[East German Revolution]], [[Myanmar 2021]]
 
 ### Ethical Theory
 - Consequentialism, deontology, responsibility for unintended consequences
