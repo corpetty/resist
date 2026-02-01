@@ -9,7 +9,7 @@ key_organizations: [Beijing Students' Autonomous Federation, Beijing Workers' Au
 estimated_participants: "Over 1 million in Beijing at peak; protests in 400+ cities"
 outcome: failure
 type: nonviolent
-status: draft
+status: complete
 
 # Context Tags
 regime_type: authoritarian
@@ -23,10 +23,10 @@ tactics: [mass_demonstration, occupation, civil_disobedience]
 themes: [democracy, reform]
 
 # Research Status
-sources_primary: false
+sources_primary: true
 sources_secondary: true
 sources_academic: true
-last_updated: "2026-01-29"
+last_updated: "2026-01-31"
 ---
 
 # Tiananmen Square
@@ -183,9 +183,13 @@ The Tiananmen massacre stands as a pivotal case of failed nonviolent resistance,
 
 ### Academic Analyses
 
-- Zhao, Dingxin. *The Power of Tiananmen*
-- Calhoun, Craig. *Neither Gods nor Emperors: Students and the Struggle for Democracy in China*
-- Perry, Elizabeth. *Anyuan: Mining China's Revolutionary Tradition*
+- Zhao, Dingxin. *The Power of Tiananmen: State-Society Relations and the 1989 Beijing Student Movement* (2001) - Structural analysis of mobilization
+- Calhoun, Craig. *Neither Gods nor Emperors: Students and the Struggle for Democracy in China* (1994) - Student movement dynamics
+- Perry, Elizabeth. *Anyuan: Mining China's Revolutionary Tradition* (2012) - Historical context of Chinese protest
+- Nathan, Andrew and Perry Link, eds. *The Tiananmen Papers* (2001) - Internal party documents (controversial)
+- Wasserstrom, Jeffrey and Elizabeth Perry, eds. *Popular Protest and Political Culture in Modern China* (1994) - Comparative historical perspective
+- Walder, Andrew and Gong Xiaoxia. "Workers in the Tiananmen Protests" (1993) - Worker participation analysis
+- Esherick and Wasserstrom. "Acting Out Democracy" (1990) - Early critical analysis
 
 ### Participant Accounts
 
