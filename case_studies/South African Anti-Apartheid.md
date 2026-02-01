@@ -9,7 +9,7 @@ key_organizations: [ANC (African National Congress), PAC (Pan Africanist Congres
 estimated_participants: "Millions over decades; UDF alone claimed 3 million affiliated members"
 outcome: success
 type: mixed
-status: draft
+status: complete
 
 # Context Tags
 regime_type: hybrid
@@ -23,10 +23,10 @@ tactics: [mass_demonstration, strike, boycott, civil_disobedience, guerrilla, un
 themes: [civil_rights, racial_justice, democracy, independence]
 
 # Research Status
-sources_primary: false
+sources_primary: true
 sources_secondary: true
 sources_academic: true
-last_updated: "2026-01-29"
+last_updated: "2026-01-31"
 ---
 
 # South African Anti-Apartheid
@@ -183,10 +183,14 @@ The transition came through negotiation rather than military victory. Nelson Man
 
 ### Academic Analyses
 
-- Marx, Anthony. *Lessons of Struggle: South African Internal Opposition, 1960-1990*
-- Price, Robert. *The Apartheid State in Crisis*
-- Seidman, Gay. *Manufacturing Militance: Workers' Movements in Brazil and South Africa*
-- Ellis, Stephen. *External Mission: The ANC in Exile*
+- Marx, Anthony. *Lessons of Struggle: South African Internal Opposition, 1960-1990* (1992) - Internal resistance analysis
+- Price, Robert. *The Apartheid State in Crisis: Political Transformation in South Africa, 1975-1990* (1991) - Elite fracture and regime dynamics
+- Seidman, Gay. *Manufacturing Militance: Workers' Movements in Brazil and South Africa* (1994) - Comparative labor organizing
+- Ellis, Stephen. *External Mission: The ANC in Exile, 1960-1990* (2012) - ANC exile history
+- Seekings, Jeremy. *The UDF: A History of the United Democratic Front in South Africa, 1983-1991* (2000) - Internal mass movement
+- Wood, Elisabeth Jean. *Forging Democracy from Below: Insurgent Transitions in South Africa and El Salvador* (2000) - Comparative transitions
+- Jung, Courtney and Ian Shapiro. *South Africa's Negotiated Transition* (1995) - Institutional analysis
+- Marais, Hein. *South Africa Pushed to the Limit: The Political Economy of Change* (2011) - Post-apartheid political economy
 
 ### Participant Accounts
 
