@@ -3,8 +3,8 @@ title: "Why Resistance is Hard: The Mathematics of Mass Action"
 essay_number: 1
 series: "Resistance Theory"
 status: draft
-word_count: ~4500
-last_updated: "2026-01-31"
+word_count: ~5000
+last_updated: "2026-02-01"
 ---
 
 # Why Resistance is Hard: The Mathematics of Mass Action
@@ -19,7 +19,9 @@ Parks had been arrested before for similar protests. So had other Black passenge
 
 What made December 1, 1955 different was what happened next: within days, thousands of Montgomery's Black residents coordinated a boycott of the city's buses. They maintained this boycott for 381 days. The buses ran mostly empty. The city hemorrhaged money. The system changed.
 
-This is the fundamental problem with resistance—and it's a math problem, not a courage problem. Individual defiance is easy but useless. Mass action is powerful but extraordinarily difficult to coordinate. Understanding why mass coordination is so hard, and how successful movements pull it off anyway, is pretty much essential to understanding when resistance works and when it doesn't.
+This is the fundamental problem with resistance—and it's a math problem, not a courage problem. Individual defiance is easy but useless. Mass action is powerful but extraordinarily difficult to coordinate. Understanding why mass coordination is so hard, and how successful movements pull it off anyway, is essential to understanding when resistance works and when it doesn't.
+
+Explore how this played out: [[US Civil Rights Movement]]
 
 ## The Paradox of Power in Numbers
 
@@ -31,9 +33,13 @@ This creates a chicken-and-egg problem that drives me nuts: you need collective 
 
 The Montgomery Bus Boycott worked because organizers—building on decades of previous organizing by the NAACP, Women's Political Council, and others—convinced tens of thousands of people to make this leap of faith simultaneously. They created systems to sustain coordination: alternative transportation networks, mass meetings for morale and decision-making, enforcement mechanisms to prevent defection, and most critically, visible evidence that others were actually participating.
 
-In 2011, Occupy Wall Street faced the same math problem. The occupiers were visible, their message resonated, they generated massive media attention. But they couldn't solve the fundamental coordination issue: how to translate attention into sustained mass participation. Most sympathizers remained sympathizers—consuming content, agreeing with critiques, liking posts—rather than participants. The camps never mobilized the numbers needed to impose economic or political costs sufficient to force concessions. Eventually, isolated and unable to scale, the occupations were cleared.
+Compare this with [[Occupy Wall Street]], which faced the same math problem in 2011. The occupiers were visible, their message resonated, they generated massive media attention. But they couldn't solve the fundamental coordination issue: how to translate attention into sustained mass participation. Most sympathizers remained sympathizers—consuming content, agreeing with critiques, liking posts—rather than participants. The camps never mobilized the numbers needed to impose economic or political costs sufficient to force concessions. Eventually, isolated and unable to scale, the occupations were cleared.
 
 The difference wasn't courage or commitment (Occupy participants risked arrest and police violence). The difference was Montgomery organizers solved the collective action problem and Occupy didn't.
+
+We see this pattern repeatedly. [[Polish Solidarity]] mobilized millions of workers through workplace networks and built institutions that sustained coordination for years, even underground during martial law. [[Tunisian Revolution]] sparked from bread protests to nationwide uprising in weeks because professional networks (doctors, teachers, lawyers organized through the Sudanese Professionals Association model) could rapidly coordinate action. [[Hong Kong Protests]], despite mobilizing millions with sophisticated digital coordination, ultimately couldn't sustain sufficient economic pressure on Beijing to force concessions.
+
+The math doesn't change: you need numbers, and getting numbers requires solving brutal coordination challenges.
 
 ## The Free Rider Problem
 
@@ -47,15 +53,25 @@ This logic, if universally applied, predicts mass movements should rarely occur.
 
 Successful movements use multiple strategies:
 
-**Selective incentives:** Montgomery organizers didn't just appeal to principle—they created carpools, making non-participation less convenient. Polish Solidarity wasn't just political—it was the only independent union that could defend workers' immediate interests. Participation became individually rational apart from collective outcomes.
+**Selective incentives:** Montgomery organizers didn't just appeal to principle—they created carpools, making non-participation less convenient. [[Polish Solidarity]] wasn't just political—it was the only independent union that could defend workers' immediate interests. Participation became individually rational apart from collective outcomes.
+
+[[Indian Independence]] Movement solved this brilliantly through Gandhi's constructive program—spinning thread, village development work, providing immediate tangible benefits alongside political resistance. [[Sudanese Revolution]]'s resistance committees offered neighborhood-level services and protection while organizing politically.
 
 **Social pressure and monitoring:** In tight-knit communities, free riding carries social costs. Montgomery's Black churches provided organizing infrastructure *and* social accountability. In the segregated South, everyone knew who was riding the buses and who wasn't. Social sanction made participation easier than defection.
 
+[[Serbian Otpor]] used this ruthlessly—in a country where everyone knew everyone, activists made participation cool and visible through graffiti, stickers, and creative actions. Not participating meant being left out of the cultural moment. [[East German Revolution]]'s Monday Demonstrations in Leipzig built through visible weekly commitment—your neighbors saw who showed up.
+
 **Changing the calculus:** Some movements make non-participation risky. The Gdańsk shipyard workers in 1980 Poland struck knowing security forces might intervene. But they also knew that if they didn't strike, working conditions would keep deteriorating and the regime would remain unchanged. The status quo became less acceptable than resistance.
+
+[[Chilean Resistance to Pinochet]] faced this calculation for 17 years. The dictatorship's brutality made eventual participation necessary for survival and dignity, even knowing the risks. [[South African Anti-Apartheid]] transformed apartheid from a system people lived with to one that demanded resistance despite severe repression.
 
 **Identity and meaning:** Here's where pure economic self-interest breaks down—because it's not the only (or even primary) human motivation. People participate in movements for dignity, solidarity, identity, meaning. Montgomery participants weren't just avoiding segregated buses—they were asserting their humanity and rejecting subordination. The value wasn't just in the policy outcome but in the act of resistance itself.
 
+[[Black Lives Matter]] mobilized millions not just for policy wins but for dignity, recognition, and communal expression of grief and anger. The George Floyd protests became rituals of collective meaning-making. [[Thailand 2020 Protests]] involved youth risking lèse-majesté charges (serious prison time) partly for generational identity and cultural expression through creative protest.
+
 The most successful movements combine all these. But the free rider problem never disappears—it has to be actively managed. When movements fail to provide selective incentives, maintain social accountability, or sustain meaning and identity, participation erodes even when people still support the goals.
+
+For tragic examples, see [[Belarus 2020]] and [[Myanmar 2021]]—both mobilized millions initially but couldn't sustain participation against prolonged brutal repression without institutional bases to manage free-riding and erosion.
 
 ## Coordination Costs
 
@@ -65,25 +81,35 @@ Cool. So you've overcome the free rider problem. People want to participate. Now
 
 The Montgomery Boycott succeeded partly because organizers had multiple communication channels: Black churches where information could be shared from pulpits, ministers who coordinated among churches, the Women's Political Council's telephone networks, and ultimately leaflets distributed throughout Black neighborhoods. They used redundant systems because they knew single channels wouldn't be enough.
 
-In authoritarian contexts, communication gets way harder. Poland's Solidarity initially coordinated strikes through workplace networks, then developed underground distribution during martial law—printing and distributing newsletters at tremendous personal risk. When official media is controlled and unofficial communication criminalized, simply *telling people about planned action* becomes a major operational challenge.
+In authoritarian contexts, communication gets way harder. [[Polish Solidarity]] initially coordinated strikes through workplace networks, then developed underground distribution during martial law—printing and distributing newsletters at tremendous personal risk. [[Velvet Revolution]] in Czechoslovakia used churches and theaters as communication hubs where state control was weaker. When official media is controlled and unofficial communication criminalized, simply *telling people about planned action* becomes a major operational challenge.
 
-Digital technology promised to solve this. And ya know, the Arab Spring protests, Occupy, Hong Kong's 2019 protests all relied heavily on social media for coordination. Digital tools enable communication at scales and speeds previously impossible.
+Digital technology promised to solve this. And the [[Tunisian Revolution]], [[Egyptian Revolution 2011]], and [[Hong Kong Protests]] all relied heavily on social media for coordination. Digital tools enable communication at scales and speeds previously impossible.
+
+[[Serbian Otpor]] pioneered this by using the Nexta Telegram channel—wait, no, that was [[Belarus 2020]]. Otpor used mobile phones and (later) social media. [[Myanmar 2021]]'s Civil Disobedience Movement coordinated via Facebook and Telegram when internet access remained. [[Thailand 2020 Protests]] used flash mob tactics announced via social media to avoid bans.
 
 But (there's always a but)—technology creates new problems. Digital communication is surveilled. Hong Kong protesters developed sophisticated use of encrypted apps and offline distribution, knowing their phones were potentially tracked. Even then, the constant risk of infiltration and identification remained.
 
-Moreover, digital communication can create an *illusion* of coordination. Thousands of people liking a post or sharing an event isn't the same as thousands of people showing up. The gap between digital expression of support and physical participation is vast. Occupy learned this painfully—huge online followings didn't translate into sufficient sustained participation.
+Moreover, digital communication can create an *illusion* of coordination. Thousands of people liking a post or sharing an event isn't the same as thousands of people showing up. The gap between digital expression of support and physical participation is vast. [[Occupy Wall Street]] learned this painfully—huge online followings didn't translate into sufficient sustained participation. [[Black Lives Matter]] faces ongoing challenges translating viral moments into sustained organizational capacity.
 
 **Trust requirements:** Coordination requires trust that others will follow through. In one-time actions, manageable. But sustained campaigns require ongoing trust despite inevitable setbacks, provocations, exhaustion.
 
 Montgomery organizers built trust through existing institutions—churches that had served communities for decades, leaders known and respected, organizational track records. When Martin Luther King Jr. called for continued boycott despite hardship, people trusted him partly because they trusted the institutions backing him.
 
-Conversely, when movements lack institutional foundations, maintaining trust is harder. Occupy's deliberate leaderlessness meant no one could speak authoritatively for the movement, making it difficult to coordinate strategy or negotiate. What began as principled rejection of hierarchy became a practical obstacle to sustained coordination.
+[[Indian Independence]] Movement built trust over decades through Gandhi's ashrams, Congress party infrastructure, and continuous campaigns that demonstrated organizational capacity. [[People Power Philippines]] could mobilize rapidly because Cardinal Sin and the Catholic Church had immense institutional credibility built over generations.
+
+Conversely, when movements lack institutional foundations, maintaining trust is harder. [[Occupy Wall Street]]'s deliberate leaderlessness meant no one could speak authoritatively for the movement, making it difficult to coordinate strategy or negotiate. What began as principled rejection of hierarchy became a practical obstacle to sustained coordination.
 
 **Temporal synchronization:** Actions must happen at the right time. Too early, insufficient participation. Too late, the moment passes. Montgomery organizers had to move quickly after Parks's arrest to capitalize on outrage while it was fresh, but not so quickly that people couldn't prepare or spread the word. This timing required sophisticated judgment and rapid communication.
 
-**Maintaining commitment over time:** Even when initial coordination succeeds, sustaining participation is its own nightmare. Montgomery Boycott lasted 381 days. Polish Solidarity existed legally for 16 months, then underground for seven years before victory. People had to maintain commitment through exhaustion, retaliation, slow progress, and uncertainty about outcome.
+[[Velvet Revolution]] in Czechoslovakia compressed into six weeks from first protests to victory because organizers moved decisively while momentum built. [[Tunisian Revolution]] similarly capitalized on Mohamed Bouazizi's self-immolation, escalating from local protests to nationwide uprising in weeks.
+
+Contrast this with movements that couldn't find the right moment: [[Hong Kong Protests]] sustained for months but couldn't identify a decisive moment for escalation that would force concessions before Beijing's patience expired.
+
+**Maintaining commitment over time:** Even when initial coordination succeeds, sustaining participation is its own nightmare. Montgomery Boycott lasted 381 days. [[Polish Solidarity]] existed legally for 16 months, then underground for seven years before victory. [[Chilean Resistance to Pinochet]] sustained resistance for 17 years across multiple strategies. People had to maintain commitment through exhaustion, retaliation, slow progress, and uncertainty about outcome.
 
 Successful sustained campaigns develop rituals and rhythms that make participation habitual rather than requiring constant re-decision. Montgomery's mass meetings served this function—weekly reinforcement of solidarity, information sharing, collective encouragement. These weren't just logistical necessities; they were mechanisms to sustain coordination over time.
+
+[[Polish Solidarity]]'s underground newsletters, workplace networks, and Church masses provided this rhythm during martial law. [[Chilean Resistance to Pinochet]]'s resistance committees (comités de resistencia) maintained local organization over nearly two decades. [[Sudanese Revolution]]'s resistance committees became durable neighborhood institutions that persist even after the 2021 military coup.
 
 ## Visibility vs. Security
 
@@ -91,13 +117,19 @@ Every act of coordination faces a dilemma that's gotten way worse in the digital
 
 Montgomery organizers wanted maximum visibility for the boycott—they needed every Black bus rider to know about it and see others participating. But they also needed to protect leaders from retaliation (though they ultimately couldn't—King and others were arrested, bombed, threatened). Balancing publicity with operational security.
 
-This tension intensifies under repressive regimes. When the Civil Rights Movement faced beatings and arrests, participants still had some legal protections and public visibility created international pressure that constrained violence (though not enough to prevent murders). When Tiananmen Square protesters made themselves visible to the Chinese state, they were massacred—visibility brought no protection and enabled comprehensive repression.
+This tension intensifies under repressive regimes. When the [[US Civil Rights Movement]] faced beatings and arrests, participants still had some legal protections and public visibility created international pressure that constrained violence (though not enough to prevent murders). When [[Tiananmen Square]] protesters made themselves visible to the Chinese state, they were massacred—visibility brought no protection and enabled comprehensive repression.
 
-The digital age transforms this dilemma in ways that honestly freak me out a bit. Social media enables unprecedented coordination speed and scale—Hong Kong's 2019 protests mobilized millions partly through digital coordination. But digital presence is digital evidence. Every photo shared, every encrypted message, every social media post becomes potential evidence for prosecution once the state decides to repress.
+The digital age transforms this dilemma in ways that honestly freak me out a bit. Social media enables unprecedented coordination speed and scale—[[Hong Kong Protests]] mobilized millions partly through digital coordination. But digital presence is digital evidence. Every photo shared, every encrypted message, every social media post becomes potential evidence for prosecution once the state decides to repress.
 
 Hong Kong protesters developed remarkable operational security: encrypted apps, burner phones, cash instead of traceable cards, masks, destroying Octopus cards (transit cards that track movement), laser pointers to blind facial recognition cameras. Yet these measures could only mitigate, not eliminate, the fundamental trade-off—some visibility was necessary to coordinate, but all visibility was evidence.
 
 The National Security Law imposed in 2020 exploited this accumulated evidence. Digital footprints that seemed safe during mass protests became prosecution evidence once the state chose mass repression. The same tools that enabled coordination enabled, months later, systematic arrests.
+
+[[Belarus 2020]] protesters using Telegram via Nexta channel faced similar dynamics—coordination enabled mass protests but created digital trails used for prosecution. The Nexta founders were eventually arrested, and hundreds of protesters faced charges based on digital evidence.
+
+[[Myanmar 2021]] faced perhaps the worst version: Facebook—the primary communication platform for the country—became evidence database for the military junta. Photos, videos, posts that coordinated the Civil Disobedience Movement later became prosecution evidence.
+
+[[Serbian Otpor]] operated pre-smartphone era but pioneered decentralized cell structure partly to manage the visibility-security trade-off. Each cell could act visibly (graffiti, stickers, actions) while protecting broader networks.
 
 There's no perfect solution here. Successful movements make strategic choices based on context. In relatively open societies, transparency can be protective—visible movements are harder to repress without generating sympathy. Under authoritarianism, operational security becomes paramount, even at the cost of coordination efficiency.
 
@@ -105,7 +137,7 @@ There's no perfect solution here. Successful movements make strategic choices ba
 
 Finally—and this might be the hardest part psychologically—resistance movements must convince people to accept costs now for uncertain benefits later. Possibly much later.
 
-Rosa Parks and other Montgomery activists endured a year of walking to work in Alabama heat, organizing carpools, facing white backlash. The Supreme Court ruling desegregating buses came 381 days after the boycott began. Polish Solidarity members struck in 1980, lived through martial law repression from 1981-1989, and finally saw democracy in 1989—nine years after the initial strikes, seven years underground.
+Rosa Parks and other Montgomery activists endured a year of walking to work in Alabama heat, organizing carpools, facing white backlash. The Supreme Court ruling desegregating buses came 381 days after the boycott began. [[Polish Solidarity]] members struck in 1980, lived through martial law repression from 1981-1989, and finally saw democracy in 1989—nine years after the initial strikes, seven years underground.
 
 This temporal dimension makes coordination harder in several ways:
 
@@ -113,34 +145,102 @@ This temporal dimension makes coordination harder in several ways:
 
 **Fatigue and burnout:** Sustaining high-intensity participation is exhausting. Montgomery organizers had to constantly recruit new energy, support those ready to give up, pace the campaign to prevent complete burnout.
 
+[[Chilean Resistance to Pinochet]] faced this across 17 years, cycling through strategies—armed resistance, mass protests, civil disobedience, electoral focus—partly to manage burnout. [[South African Anti-Apartheid]] sustained resistance for decades through multiple generations of activists.
+
+[[Syrian Uprising]] shows the tragic outcome when exhaustion wins. Initial peaceful protests gave way to armed conflict partly because sustaining nonviolent resistance for months against brutal repression proved psychologically and physically impossible for enough participants. The movement fragmented, militarized, and ultimately produced catastrophic civil war.
+
 **Changing circumstances:** Over extended periods, people's lives change. They move, start families, get sick, change priorities. Movements requiring years-long commitment must account for natural attrition and constantly recruit new participants.
 
 **Small wins as strategy:** To sustain participation despite delayed ultimate victory, successful movements create intermediate goals that provide evidence of progress and reward for participation. Montgomery's mid-campaign victories (legal filings progressing, international attention, small concessions from the city) sustained morale when ultimate victory remained distant.
 
+[[Indian Independence]] Movement sustained over decades partly through incremental campaigns—each satyagraha had defined beginning and end, allowing rest and recruitment between escalations. [[Polish Solidarity]] in underground phase celebrated small acts of resistance—illegal newsletters distributed, church services held, May Day protests—as victories maintaining commitment when regime change seemed distant.
+
 But small wins carry risks. If intermediate concessions satisfy enough participants, the movement may demobilize before achieving larger goals. Movement leaders must calibrate—celebrate wins to sustain morale, but maintain pressure for transformative change.
+
+[[Egyptian Revolution 2011]] and [[Sudanese Revolution]] both "won" by removing dictators (Mubarak, Bashir) but then faced military coups because the movements demobilized after initial victory rather than consolidating power. Removing a dictator proved easier than preventing military hijacking of the transition.
 
 ## Why Some Movements Actually Pull This Off
 
 Given these extraordinary challenges, you might wonder how movements ever succeed. The answer is not that successful movements eliminate these problems—they manage them, imperfectly, with a lot of luck and timing.
 
-Montgomery Bus Boycott succeeded because:
-- Decades of prior organizing built institutional capacity and trust
-- The boycott provided immediate individual benefit (dignity, resistance to humiliation) beyond collective outcome
-- Tight-knit communities enabled social accountability that reduced free-riding
-- Alternative transportation made participation practical
-- Regular mass meetings sustained coordination and morale
-- The specific demand (bus desegregation) was clear and achievable
-- Media attention created international pressure that constrained violence
+Compare successful and failed cases:
 
-Polish Solidarity succeeded because:
-- It met immediate worker needs (independent union representation), making participation individually rational
-- The Catholic Church provided sanctuary institutions beyond state control
+**[[Indian Independence]] succeeded because:**
+- Decades of prior organizing built institutional capacity (Congress party, ashrams)
+- Selective incentives (constructive program provided immediate benefits)
+- Strong social networks (villages, caste associations, religious communities)
+- Charismatic leadership (Gandhi) combined with organizational infrastructure
+- British unwillingness to massacre millions + post-WWII exhaustion changed calculus
+- Partition tragedy shows even "success" had catastrophic costs
+
+**[[Polish Solidarity]] succeeded because:**
+- Met immediate worker needs (independent union representation), making participation individually rational
+- Catholic Church provided sanctuary institutions beyond state control
 - Dense workplace networks enabled trust and coordination
 - Seven years of underground organizing built organizational resilience
 - Gorbachev's reforms in the USSR changed the international context
-- The negotiated transition offered regime elites an acceptable exit
+- Negotiated transition offered regime elites an acceptable exit
 
-Conversely, movements fail when they can't solve these problems. Occupy generated sympathy but couldn't translate it into sustained mass participation. Tiananmen Square protesters coordinated massive demonstrations but had no institutional base to sustain organization when repression came. Hong Kong's 2019 movement mobilized millions but couldn't impose sufficient costs on Beijing to force concessions, and leaderless structure prevented strategic adaptation when tactics failed.
+**[[Tunisian Revolution]] succeeded because:**
+- Professional networks (doctors, teachers, lawyers) provided organizational capacity
+- Economic crisis motivated participation across classes
+- Military refused to massacre protesters (critical difference from Egypt, Syria)
+- Relatively homogeneous society (no sectarian divisions to exploit)
+- UGTT labor union provided institutional backbone
+- Rapid timeline prevented counter-mobilization
+
+**[[People Power Philippines]] succeeded because:**
+- Catholic Church mobilized millions via Cardinal Sin's radio calls
+- Military defection (Enrile, Ramos) removed regime's enforcement tool
+- Cross-class coalition in capital where regime depended on compliance
+- Four-day speed prevented military from fully responding
+- US pressure on Marcos decisive
+
+Now contrast with failures:
+
+**[[Occupy Wall Street]] failed because:**
+- No selective incentives beyond participation itself
+- Deliberately leaderless prevented strategic coordination
+- Digital following didn't translate to sustained physical presence
+- No economic leverage over financial sector it targeted
+- Couldn't convert attention into institutional power
+
+**[[Tiananmen Square]] failed because:**
+- Military willing to massacre (unlike Tunisia, Philippines, Poland)
+- International context (pre-1989 wave, no Gorbachev)
+- Students lacked institutional base beyond universities
+- Urban-rural divide prevented broader coalition
+- No leverage over regime that prioritized stability over legitimacy
+
+**[[Hong Kong Protests]] failed because:**
+- Beijing willing to wait out protests then impose National Security Law
+- Leaderless structure couldn't adapt strategically when tactics failed
+- Economic leverage insufficient (China could absorb costs)
+- International community provided rhetoric but not intervention
+- COVID-19 provided cover for crackdown
+
+**[[Belarus 2020]] failed because:**
+- Russia decisively backed Lukashenko (external support)
+- Security forces remained loyal (well-paid, regime-dependent)
+- Lèse-majesté-equivalent repression (torture, thousands arrested)
+- International community ineffective (rhetoric without action)
+- Decentralized coordination insufficient against determined repression
+
+**[[Myanmar 2021]] failed (ongoing) because:**
+- Military willing to use unlimited violence
+- International community won't intervene
+- Ethnic divisions complicating resistance coordination
+- Nonviolent resistance failed, armed resistance fragmented
+- Geopolitics (China, Thailand support junta) prevent isolation
+
+**[[Syrian Uprising]] failed catastrophically because:**
+- Regime willing to use unlimited violence (barrel bombs, chemical weapons)
+- International intervention backed regime (Russia, Iran) more than opposition
+- Peaceful protests couldn't sustain against severe repression
+- Armed resistance led to civil war killing hundreds of thousands
+- Sectarian divisions exploited by regime and external actors
+
+The pattern that emerges: successful movements solve the collective action problem through institutional capacity, selective incentives, social accountability, and external conditions (regime fracture, international pressure, economic crisis). Failed movements often mobilize millions but can't sustain coordination against determined repression, lack institutional foundations, or face geopolitical contexts that support authoritarianism.
 
 ## What This Means for Violence
 
@@ -150,25 +250,62 @@ Violence offers a solution to the collective action problem—individual agency 
 
 But (and this is a big fucking but)—it does so at catastrophic cost. It changes who you are, what you can achieve, and who will support you. Most importantly, it plays directly into state power rather than challenging it.
 
-Before we examine why violence fails strategically—which we will, in painful detail—we need to understand another dimension of the coordination problem: why some individuals have structural positions that let them act alone with significant impact, while others can only act collectively.
+Compare [[Indian Independence]] (largely nonviolent) with [[Algerian Independence]] (armed struggle). India achieved independence through mass nonviolent resistance that made British rule untenable. Algeria achieved independence through brutal eight-year war killing hundreds of thousands. Both "succeeded" at independence—but India became a democracy (flawed but functioning) while Algeria became an authoritarian state dominated by the military that fought the war. The means shaped the outcome.
 
-When does individual action actually matter? That's next.
+[[Chilean Resistance to Pinochet]] combined both: armed resistance (MIR, FPMR) and nonviolent mass protests. The armed resistance was counterproductive—gave Pinochet justification for repression, divided opposition, didn't threaten regime militarily. The nonviolent mass protests and eventual electoral strategy succeeded. Violence was a trap.
+
+[[Syrian Uprising]] shows the tragic extreme. Peaceful protests in 2011 faced brutal repression. Some protesters took up arms defensively. Armed resistance escalated. Regime responded with worse violence. Civil war killed over 500,000 and displaced half the population. Even if Assad eventually falls, the violence has made any positive outcome nearly impossible.
+
+Before we examine why violence fails strategically—which we will, in painful detail in [[Essay 3]]—we need to understand another dimension of the coordination problem: why some individuals have structural positions that let them act alone with significant impact, while others can only act collectively.
+
+When does individual action actually matter? That's next in [[Essay 2]].
 
 ---
 
 *Draft Essay 1 of 10 in the Resistance Theory series.*
 
-*Next: Essay 2 - "When One Person Can Matter: Structural Power vs. Numerical Power"*
+*Next: [[Essay 2]] - "When One Person Can Matter: Structural Power vs. Numerical Power"*
+
+*See also:*
+- *[[resistance_framework]] - Overview of the full research project*
+- *[[research_questions]] - Systematic questions this essay addresses*
+- *[[essay_series_outline]] - How this fits in the broader argument*
 
 ---
 
 ## References and Further Reading
 
 ### Primary Case Sources
-- Roberta Wright, *The Birth of the Montgomery Bus Boycott* (Southfield, MI: Charro Press, 1991)
-- Taylor Branch, *Parting the Waters: America in the King Years 1954-63* (New York: Simon & Schuster, 1988)
-- Lawrence Goodwyn, *Breaking the Barrier: The Rise of Solidarity in Poland* (Oxford: Oxford University Press, 1991)
-- Writers for the 99%, *Occupying Wall Street* (New York: OR Books, 2011)
+
+This essay draws examples from case studies in this collection:
+
+**Successful Nonviolent Transitions:**
+- [[US Civil Rights Movement]]
+- [[Polish Solidarity]]
+- [[Indian Independence]]
+- [[Tunisian Revolution]]
+- [[People Power Philippines]]
+- [[Velvet Revolution]]
+- [[East German Revolution]]
+- [[South African Anti-Apartheid]]
+
+**Failed or Ongoing Resistance:**
+- [[Occupy Wall Street]]
+- [[Tiananmen Square]]
+- [[Hong Kong Protests]]
+- [[Belarus 2020]]
+- [[Myanmar 2021]]
+- [[Syrian Uprising]]
+- [[Thailand 2020 Protests]]
+
+**Mixed or Complicated Outcomes:**
+- [[Chilean Resistance to Pinochet]]
+- [[Serbian Otpor]]
+- [[Egyptian Revolution 2011]]
+- [[Sudanese Revolution]]
+- [[Iranian Revolution]]
+- [[Algerian Independence]]
+- [[Black Lives Matter]]
 
 ### Theoretical Works
 - Mancur Olson, *The Logic of Collective Action: Public Goods and the Theory of Groups* (Cambridge: Harvard University Press, 1965)
