@@ -1,4 +1,5 @@
 ---
+
 # Basic Information
 title: "People Power Revolution (Philippines)"
 location: Philippines (primarily Manila)
@@ -28,8 +29,6 @@ sources_secondary: true
 sources_academic: true
 last_updated: "2026-01-31"
 ---
-
-# People Power Revolution (Philippines)
 
 ## Overview
 

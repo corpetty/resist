@@ -1,4 +1,5 @@
 ---
+
 title: "Why Resistance is Hard: The Mathematics of Mass Action"
 essay_number: 1
 series: "Resistance Theory"
@@ -6,8 +7,6 @@ status: draft
 word_count: ~5000
 last_updated: "2026-02-01"
 ---
-
-# Why Resistance is Hard: The Mathematics of Mass Action
 
 ## Introduction
 

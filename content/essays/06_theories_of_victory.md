@@ -1,4 +1,5 @@
 ---
+
 title: "Theories of Victory: How Does Resistance Actually Win?"
 essay_number: 6
 series: "Resistance Theory"
@@ -6,8 +7,6 @@ status: draft
 word_count: ~2900
 last_updated: "2026-02-01"
 ---
-
-# Theories of Victory: How Does Resistance Actually Win?
 
 ## Introduction
 

@@ -1,4 +1,5 @@
 ---
+
 title: "Ethics and Consequences: When Winning Isn't Worth the Cost"
 essay_number: 9
 series: "Resistance Theory"
@@ -6,8 +7,6 @@ status: draft
 word_count: ~2800
 last_updated: "2026-02-01"
 ---
-
-# Ethics and Consequences: When Winning Isn't Worth the Cost
 
 ## Introduction
 

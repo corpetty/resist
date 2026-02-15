@@ -1,4 +1,5 @@
 ---
+
 # Basic Information
 title: "Belarus 2020-21 Protests"
 location: Belarus (primarily Minsk)
@@ -28,8 +29,6 @@ sources_secondary: true
 sources_academic: limited
 last_updated: "2026-01-31"
 ---
-
-# Belarus 2020-21 Protests
 
 ## Overview
 

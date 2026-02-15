@@ -1,4 +1,5 @@
 ---
+
 # Basic Information
 title: "Indian Independence Movement"
 location: India (British colonial territory)
@@ -28,8 +29,6 @@ sources_secondary: true
 sources_academic: true
 last_updated: "2026-01-31"
 ---
-
-# Indian Independence Movement
 
 ## Overview
 

@@ -1,4 +1,5 @@
 ---
+
 # Basic Information
 title: "Myanmar 2021 Spring Revolution"
 location: Myanmar (Burma)
@@ -28,8 +29,6 @@ sources_secondary: true
 sources_academic: limited
 last_updated: "2026-01-31"
 ---
-
-# Myanmar 2021 Spring Revolution
 
 ## Overview
 

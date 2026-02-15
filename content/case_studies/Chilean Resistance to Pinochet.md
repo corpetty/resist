@@ -1,4 +1,5 @@
 ---
+
 # Basic Information
 title: "Chilean Resistance to Pinochet"
 location: Chile
@@ -28,8 +29,6 @@ sources_secondary: true
 sources_academic: true
 last_updated: "2026-01-31"
 ---
-
-# Chilean Resistance to Pinochet
 
 ## Overview
 

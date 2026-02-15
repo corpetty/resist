@@ -1,4 +1,5 @@
 ---
+
 # Basic Information
 title: "Iranian Revolution"
 location: Iran
@@ -28,8 +29,6 @@ sources_secondary: true
 sources_academic: true
 last_updated: "2026-01-31"
 ---
-
-# Iranian Revolution
 
 ## Overview
 

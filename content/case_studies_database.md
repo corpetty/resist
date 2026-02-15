@@ -1,4 +1,6 @@
-# Resistance Case Studies Database
+---
+title: "Resistance Case Studies Database"
+---
 
 ## Purpose
 

@@ -1,4 +1,5 @@
 ---
+
 # Basic Information
 title: "Egyptian Revolution 2011"
 location: Egypt (primarily Cairo's Tahrir Square)
@@ -28,8 +29,6 @@ sources_secondary: true
 sources_academic: true
 last_updated: "2026-01-31"
 ---
-
-# Egyptian Revolution 2011
 
 ## Overview
 

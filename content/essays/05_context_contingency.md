@@ -1,4 +1,5 @@
 ---
+
 title: "Context and Contingency: Why History Doesn't Repeat (Lessons Transfer Badly)"
 essay_number: 5
 series: "Resistance Theory"
@@ -6,8 +7,6 @@ status: draft
 word_count: ~3200
 last_updated: "2026-02-01"
 ---
-
-# Context and Contingency: Why History Doesn't Repeat (Lessons Transfer Badly)
 
 ## Introduction
 

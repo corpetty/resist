@@ -1,4 +1,6 @@
-# Resistance Theory Project: Task Structure & Execution Plan
+---
+title: "Resistance Theory Project: Task Structure & Execution Plan"
+---
 
 ## Project Overview
 

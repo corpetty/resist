@@ -1,8 +1,7 @@
 ---
+
 title: Resistance Theory Project
 ---
-
-# Resistance Theory Project
 
 A comprehensive framework for analyzing resistance movements, understanding their dynamics, and developing strategic thinking about social change.
 

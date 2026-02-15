@@ -1,4 +1,5 @@
 ---
+
 # Basic Information
 title: "Sudanese Revolution 2018-19"
 location: Sudan (primarily Khartoum)
@@ -28,8 +29,6 @@ sources_secondary: true
 sources_academic: limited
 last_updated: "2026-01-31"
 ---
-
-# Sudanese Revolution 2018-19
 
 ## Overview
 

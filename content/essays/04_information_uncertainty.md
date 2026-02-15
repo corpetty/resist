@@ -1,4 +1,5 @@
 ---
+
 title: "Information and Uncertainty: What Movements Know and When They Know It"
 essay_number: 4
 series: "Resistance Theory"
@@ -6,8 +7,6 @@ status: draft
 word_count: ~3400
 last_updated: "2026-02-01"
 ---
-
-# Information and Uncertainty: What Movements Know and When They Know It
 
 ## Introduction
 

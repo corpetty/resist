@@ -1,4 +1,5 @@
 ---
+
 # Basic Information
 title: "East German Revolution (Peaceful Revolution)"
 location: East Germany (German Democratic Republic)
@@ -28,8 +29,6 @@ sources_secondary: true
 sources_academic: true
 last_updated: "2026-01-31"
 ---
-
-# East German Revolution (Peaceful Revolution)
 
 ## Overview
 

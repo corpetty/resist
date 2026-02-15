@@ -1,4 +1,5 @@
 ---
+
 title: "The Violence Trap: Why Armed Resistance Usually Fails"
 essay_number: 3
 series: "Resistance Theory"
@@ -6,8 +7,6 @@ status: draft
 word_count: ~4200
 last_updated: "2026-02-01"
 ---
-
-# The Violence Trap: Why Armed Resistance Usually Fails
 
 ## Introduction
 

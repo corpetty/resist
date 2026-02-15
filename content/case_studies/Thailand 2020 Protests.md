@@ -1,4 +1,5 @@
 ---
+
 # Basic Information
 title: "Thailand 2020-21 Pro-Democracy Protests"
 location: Thailand (primarily Bangkok)
@@ -28,8 +29,6 @@ sources_secondary: true
 sources_academic: limited
 last_updated: "2026-01-31"
 ---
-
-# Thailand 2020-21 Pro-Democracy Protests
 
 ## Overview
 

@@ -1,4 +1,5 @@
 ---
+
 title: "Comparing Success and Failure: Patterns Across Cases"
 essay_number: 8
 series: "Resistance Theory"
@@ -6,8 +7,6 @@ status: draft
 word_count: ~3400
 last_updated: "2026-02-01"
 ---
-
-# Comparing Success and Failure: Patterns Across Cases
 
 ## Introduction
 

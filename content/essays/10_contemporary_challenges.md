@@ -1,4 +1,5 @@
 ---
+
 title: "Contemporary Challenges: Resistance in the 21st Century"
 essay_number: 10
 series: "Resistance Theory"
@@ -6,8 +7,6 @@ status: draft
 word_count: ~3200
 last_updated: "2026-02-01"
 ---
-
-# Contemporary Challenges: Resistance in the 21st Century
 
 ## Introduction
 

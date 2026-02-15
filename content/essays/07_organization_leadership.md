@@ -1,4 +1,5 @@
 ---
+
 title: "Organization and Leadership: Structure vs. Spontaneity"
 essay_number: 7
 series: "Resistance Theory"
@@ -6,8 +7,6 @@ status: draft
 word_count: ~3100
 last_updated: "2026-02-01"
 ---
-
-# Organization and Leadership: Structure vs. Spontaneity
 
 ## Introduction
 

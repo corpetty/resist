@@ -1,4 +1,5 @@
 ---
+
 # Basic Information
 title: "Black Lives Matter Movement"
 location: United States (originated, spread globally)
@@ -28,8 +29,6 @@ sources_secondary: true
 sources_academic: true
 last_updated: "2026-01-31"
 ---
-
-# Black Lives Matter Movement
 
 ## Overview
 

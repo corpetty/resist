@@ -1,4 +1,5 @@
 ---
+
 # Basic Information
 title: "Serbian Otpor Movement"
 location: Serbia (Federal Republic of Yugoslavia)
@@ -28,8 +29,6 @@ sources_secondary: true
 sources_academic: true
 last_updated: "2026-01-31"
 ---
-
-# Serbian Otpor Movement
 
 ## Overview
 

@@ -1,11 +1,10 @@
 ---
+
 title: Case Studies Index
 description: Map of Content for resistance movement case studies
 status: active
 last_updated: 2026-01-29
 ---
-
-# Case Studies Index
 
 This directory contains structured case studies of resistance movements, organized for comparative analysis. Each case study follows a standard template enabling pattern recognition across different contexts, tactics, and outcomes.
 

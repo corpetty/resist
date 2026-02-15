@@ -1,4 +1,5 @@
 ---
+
 title: "When One Person Can Matter: Structural Power vs. Numerical Power"
 essay_number: 2
 series: "Resistance Theory"
@@ -6,8 +7,6 @@ status: draft
 word_count: ~3800
 last_updated: "2026-02-01"
 ---
-
-# When One Person Can Matter: Structural Power vs. Numerical Power
 
 ## Introduction
 

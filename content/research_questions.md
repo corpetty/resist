@@ -1,4 +1,6 @@
-# Resistance Theory: Research Questions & Exploration Guide
+---
+title: "Resistance Theory: Research Questions & Exploration Guide"
+---
 
 ## Meta-Questions (Framework-Level)
 

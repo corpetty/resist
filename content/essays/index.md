@@ -1,8 +1,7 @@
 ---
+
 title: Essays
 ---
-
-# Resistance Theory Essay Series
 
 A 10-part series exploring the theory, history, and practice of resistance movements.
 

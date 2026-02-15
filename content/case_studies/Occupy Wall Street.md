@@ -1,4 +1,5 @@
 ---
+
 # Basic Information
 title: "Occupy Wall Street"
 location: United States (originated NYC, spread to 600+ cities globally)
@@ -28,8 +29,6 @@ sources_secondary: true
 sources_academic: true
 last_updated: "2026-01-31"
 ---
-
-# Occupy Wall Street
 
 ## Overview
 

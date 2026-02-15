@@ -1,4 +1,6 @@
-# Resistance Theory: Essay Series Outline
+---
+title: "Resistance Theory: Essay Series Outline"
+---
 
 ## Core Thesis
 
