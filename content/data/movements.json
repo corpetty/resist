@@ -1,0 +1,420 @@
+[
+  {
+    "name": "Indian Independence Movement",
+    "country": "India (British colonial territory)",
+    "region": "Asia",
+    "yearStart": 1920,
+    "yearEnd": 1947,
+    "outcome": "success",
+    "primaryMethod": "nonviolent",
+    "stateResponse": "brutal",
+    "slug": "indian-independence",
+    "radarData": {
+      "organizationLevel": 5,
+      "popularSupport": 5,
+      "internationalSupport": 3,
+      "stateRepression": 5,
+      "violenceLevel": 1,
+      "duration": 5
+    }
+  },
+  {
+    "name": "US Civil Rights Movement",
+    "country": "United States",
+    "region": "Americas",
+    "yearStart": 1954,
+    "yearEnd": 1968,
+    "outcome": "partial",
+    "primaryMethod": "nonviolent",
+    "stateResponse": "brutal",
+    "slug": "us-civil-rights-movement",
+    "radarData": {
+      "organizationLevel": 5,
+      "popularSupport": 5,
+      "internationalSupport": 3,
+      "stateRepression": 5,
+      "violenceLevel": 1,
+      "duration": 5
+    }
+  },
+  {
+    "name": "Algerian War of Independence",
+    "country": "Algeria (French colonial territory)",
+    "region": "Middle East",
+    "yearStart": 1954,
+    "yearEnd": 1962,
+    "outcome": "success",
+    "primaryMethod": "violent",
+    "stateResponse": "very_high",
+    "slug": "algerian-independence",
+    "radarData": {
+      "organizationLevel": 3,
+      "popularSupport": 3,
+      "internationalSupport": 3,
+      "stateRepression": 3,
+      "violenceLevel": 4,
+      "duration": 5
+    }
+  },
+  {
+    "name": "South African Anti-Apartheid",
+    "country": "South Africa",
+    "region": "Africa",
+    "yearStart": 1960,
+    "yearEnd": 1994,
+    "outcome": "success",
+    "primaryMethod": "mixed",
+    "stateResponse": "extreme",
+    "slug": "south-african-anti-apartheid",
+    "radarData": {
+      "organizationLevel": 5,
+      "popularSupport": 5,
+      "internationalSupport": 3,
+      "stateRepression": 3,
+      "violenceLevel": 3,
+      "duration": 5
+    }
+  },
+  {
+    "name": "Chilean Resistance to Pinochet",
+    "country": "Chile",
+    "region": "Americas",
+    "yearStart": 1973,
+    "yearEnd": 1990,
+    "outcome": "success",
+    "primaryMethod": "mixed",
+    "stateResponse": "very_high",
+    "slug": "chilean-resistance-to-pinochet",
+    "radarData": {
+      "organizationLevel": 5,
+      "popularSupport": 5,
+      "internationalSupport": 3,
+      "stateRepression": 3,
+      "violenceLevel": 3,
+      "duration": 5
+    }
+  },
+  {
+    "name": "Iranian Revolution",
+    "country": "Iran",
+    "region": "Middle East",
+    "yearStart": 1977,
+    "yearEnd": 1979,
+    "outcome": "success",
+    "primaryMethod": "mixed",
+    "stateResponse": "very_high",
+    "slug": "iranian-revolution",
+    "radarData": {
+      "organizationLevel": 5,
+      "popularSupport": 5,
+      "internationalSupport": 3,
+      "stateRepression": 3,
+      "violenceLevel": 3,
+      "duration": 3
+    }
+  },
+  {
+    "name": "Polish Solidarity",
+    "country": "Poland",
+    "region": "Europe",
+    "yearStart": 1980,
+    "yearEnd": 1989,
+    "outcome": "success",
+    "primaryMethod": "nonviolent",
+    "stateResponse": "brutal",
+    "slug": "polish-solidarity",
+    "radarData": {
+      "organizationLevel": 5,
+      "popularSupport": 5,
+      "internationalSupport": 3,
+      "stateRepression": 5,
+      "violenceLevel": 1,
+      "duration": 5
+    }
+  },
+  {
+    "name": "People Power Revolution (Philippines)",
+    "country": "Philippines (primarily Manila)",
+    "region": "Asia",
+    "yearStart": 1986,
+    "yearEnd": 1986,
+    "outcome": "success",
+    "primaryMethod": "nonviolent",
+    "stateResponse": "brutal",
+    "slug": "people-power-philippines",
+    "radarData": {
+      "organizationLevel": 5,
+      "popularSupport": 5,
+      "internationalSupport": 3,
+      "stateRepression": 5,
+      "violenceLevel": 1,
+      "duration": 3
+    }
+  },
+  {
+    "name": "East German Revolution (Peaceful Revolution)",
+    "country": "East Germany (German Democratic Republic)",
+    "region": "Europe",
+    "yearStart": 1989,
+    "yearEnd": 1990,
+    "outcome": "success",
+    "primaryMethod": "nonviolent",
+    "stateResponse": "brutal",
+    "slug": "east-german-revolution",
+    "radarData": {
+      "organizationLevel": 5,
+      "popularSupport": 5,
+      "internationalSupport": 3,
+      "stateRepression": 5,
+      "violenceLevel": 1,
+      "duration": 3
+    }
+  },
+  {
+    "name": "Tiananmen Square",
+    "country": "China (Beijing and other cities)",
+    "region": "Asia",
+    "yearStart": 1989,
+    "yearEnd": 1989,
+    "outcome": "failure",
+    "primaryMethod": "nonviolent",
+    "stateResponse": "extreme",
+    "slug": "tiananmen-square",
+    "radarData": {
+      "organizationLevel": 5,
+      "popularSupport": 5,
+      "internationalSupport": 3,
+      "stateRepression": 3,
+      "violenceLevel": 1,
+      "duration": 2
+    }
+  },
+  {
+    "name": "Velvet Revolution (Czechoslovakia)",
+    "country": "Czechoslovakia (primarily Prague)",
+    "region": "Europe",
+    "yearStart": 1989,
+    "yearEnd": 1989,
+    "outcome": "success",
+    "primaryMethod": "nonviolent",
+    "stateResponse": "restrained",
+    "slug": "velvet-revolution",
+    "radarData": {
+      "organizationLevel": 5,
+      "popularSupport": 5,
+      "internationalSupport": 3,
+      "stateRepression": 2,
+      "violenceLevel": 1,
+      "duration": 3
+    }
+  },
+  {
+    "name": "Serbian Otpor Movement",
+    "country": "Serbia (Federal Republic of Yugoslavia)",
+    "region": "Europe",
+    "yearStart": 1998,
+    "yearEnd": 2000,
+    "outcome": "success",
+    "primaryMethod": "nonviolent",
+    "stateResponse": "moderate",
+    "slug": "serbian-otpor",
+    "radarData": {
+      "organizationLevel": 3,
+      "popularSupport": 3,
+      "internationalSupport": 3,
+      "stateRepression": 3,
+      "violenceLevel": 1,
+      "duration": 3
+    }
+  },
+  {
+    "name": "Tunisian Revolution (Jasmine Revolution)",
+    "country": "Tunisia",
+    "region": "Middle East",
+    "yearStart": 2010,
+    "yearEnd": 2011,
+    "outcome": "success",
+    "primaryMethod": "nonviolent",
+    "stateResponse": "moderate",
+    "slug": "tunisian-revolution",
+    "radarData": {
+      "organizationLevel": 3,
+      "popularSupport": 3,
+      "internationalSupport": 3,
+      "stateRepression": 3,
+      "violenceLevel": 1,
+      "duration": 3
+    }
+  },
+  {
+    "name": "Egyptian Revolution 2011",
+    "country": "Egypt (primarily Cairo's Tahrir Square)",
+    "region": "Middle East",
+    "yearStart": 2011,
+    "yearEnd": 2011,
+    "outcome": "failure",
+    "primaryMethod": "nonviolent",
+    "stateResponse": "brutal",
+    "slug": "egyptian-revolution-2011",
+    "radarData": {
+      "organizationLevel": 5,
+      "popularSupport": 5,
+      "internationalSupport": 3,
+      "stateRepression": 5,
+      "violenceLevel": 1,
+      "duration": 3
+    }
+  },
+  {
+    "name": "Syrian Uprising",
+    "country": "Syria",
+    "region": "Middle East",
+    "yearStart": 2011,
+    "yearEnd": null,
+    "outcome": "failure",
+    "primaryMethod": "mixed",
+    "stateResponse": "extreme",
+    "slug": "syrian-uprising",
+    "radarData": {
+      "organizationLevel": 5,
+      "popularSupport": 5,
+      "internationalSupport": 3,
+      "stateRepression": 3,
+      "violenceLevel": 3,
+      "duration": 3
+    }
+  },
+  {
+    "name": "Occupy Wall Street",
+    "country": "United States (originated NYC, spread to 600+ cities globally)",
+    "region": "Americas",
+    "yearStart": 2011,
+    "yearEnd": 2011,
+    "outcome": "failure",
+    "primaryMethod": "nonviolent",
+    "stateResponse": "restrained",
+    "slug": "occupy-wall-street",
+    "radarData": {
+      "organizationLevel": 3,
+      "popularSupport": 3,
+      "internationalSupport": 3,
+      "stateRepression": 2,
+      "violenceLevel": 1,
+      "duration": 3
+    }
+  },
+  {
+    "name": "Black Lives Matter Movement",
+    "country": "United States (originated, spread globally)",
+    "region": "Americas",
+    "yearStart": 2013,
+    "yearEnd": null,
+    "outcome": "mixed",
+    "primaryMethod": "nonviolent",
+    "stateResponse": "moderate",
+    "slug": "black-lives-matter",
+    "radarData": {
+      "organizationLevel": 5,
+      "popularSupport": 5,
+      "internationalSupport": 3,
+      "stateRepression": 3,
+      "violenceLevel": 1,
+      "duration": 3
+    }
+  },
+  {
+    "name": "Hong Kong Protests",
+    "country": "Hong Kong",
+    "region": "Asia",
+    "yearStart": 2014,
+    "yearEnd": 2020,
+    "outcome": "failure",
+    "primaryMethod": "nonviolent",
+    "stateResponse": "brutal",
+    "slug": "hong-kong-protests",
+    "radarData": {
+      "organizationLevel": 5,
+      "popularSupport": 5,
+      "internationalSupport": 3,
+      "stateRepression": 5,
+      "violenceLevel": 1,
+      "duration": 5
+    }
+  },
+  {
+    "name": "Sudanese Revolution 2018-19",
+    "country": "Sudan (primarily Khartoum)",
+    "region": "Middle East",
+    "yearStart": 2018,
+    "yearEnd": 2019,
+    "outcome": "mixed",
+    "primaryMethod": "nonviolent",
+    "stateResponse": "very_high",
+    "slug": "sudanese-revolution",
+    "radarData": {
+      "organizationLevel": 5,
+      "popularSupport": 5,
+      "internationalSupport": 3,
+      "stateRepression": 3,
+      "violenceLevel": 1,
+      "duration": 3
+    }
+  },
+  {
+    "name": "Belarus 2020-21 Protests",
+    "country": "Belarus (primarily Minsk)",
+    "region": "Europe",
+    "yearStart": 2020,
+    "yearEnd": 2021,
+    "outcome": "failure",
+    "primaryMethod": "nonviolent",
+    "stateResponse": "very_high",
+    "slug": "belarus-2020-protests",
+    "radarData": {
+      "organizationLevel": 5,
+      "popularSupport": 5,
+      "internationalSupport": 3,
+      "stateRepression": 3,
+      "violenceLevel": 1,
+      "duration": 3
+    }
+  },
+  {
+    "name": "Thailand 2020-21 Pro-Democracy Protests",
+    "country": "Thailand (primarily Bangkok)",
+    "region": "Asia",
+    "yearStart": 2020,
+    "yearEnd": 2021,
+    "outcome": "failure",
+    "primaryMethod": "nonviolent",
+    "stateResponse": "moderate",
+    "slug": "thailand-2020-protests",
+    "radarData": {
+      "organizationLevel": 3,
+      "popularSupport": 3,
+      "internationalSupport": 3,
+      "stateRepression": 3,
+      "violenceLevel": 1,
+      "duration": 3
+    }
+  },
+  {
+    "name": "Myanmar 2021 Spring Revolution",
+    "country": "Myanmar (Burma)",
+    "region": "Asia",
+    "yearStart": 2021,
+    "yearEnd": null,
+    "outcome": "partial",
+    "primaryMethod": "mixed",
+    "stateResponse": "very_high",
+    "slug": "myanmar-2021-resistance",
+    "radarData": {
+      "organizationLevel": 5,
+      "popularSupport": 5,
+      "internationalSupport": 3,
+      "stateRepression": 3,
+      "violenceLevel": 3,
+      "duration": 3
+    }
+  }
+]
