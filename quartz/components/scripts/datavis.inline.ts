@@ -11,11 +11,12 @@ document.addEventListener("nav", async () => {
 
   try {
     // Load vega-embed (includes vega + vega-lite)
+    // Use the ESM module entry point
     const mod = await import(
       /* webpackIgnore: true */
-      "https://cdn.jsdelivr.net/npm/vega-embed@6?module"
+      "https://cdn.jsdelivr.net/npm/vega-embed@6/build/vega-embed.module.js"
     )
-    const vegaEmbed = mod.default || mod.embed || mod
+    const vegaEmbed = mod.default ?? mod.embed
 
     for (const node of vegaNodes) {
       const pre = node.closest("pre") as HTMLPreElement
