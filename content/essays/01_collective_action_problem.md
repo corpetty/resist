@@ -185,7 +185,7 @@ Given these extraordinary challenges, you might wonder how movements ever succee
     {
       "fold": [
         "radarData.organizationLevel",
-        "radarData.popularSupport", 
+        "radarData.popularSupport",
         "radarData.internationalSupport",
         "radarData.stateRepression",
         "radarData.violenceLevel"
@@ -197,51 +197,54 @@ Given these extraordinary challenges, you might wonder how movements ever succee
       "as": "dimension_clean"
     },
     {
-      "calculate": "datum.dimension_clean == 'organizationLevel' ? 'Organization Level' : datum.dimension_clean == 'popularSupport' ? 'Popular Support' : datum.dimension_clean == 'internationalSupport' ? 'International Support' : datum.dimension_clean == 'stateRepression' ? 'State Repression' : 'Violence Level'",
+      "calculate": "datum.dimension_clean == 'organizationLevel' ? 'Organization' : datum.dimension_clean == 'popularSupport' ? 'Popular Support' : datum.dimension_clean == 'internationalSupport' ? 'Intl Support' : datum.dimension_clean == 'stateRepression' ? 'Repression' : 'Violence'",
       "as": "dimension_label"
     }
   ],
   "width": "container",
-  "height": 300,
+  "height": 350,
   "mark": {
-    "type": "boxplot",
-    "extent": "min-max",
-    "size": 40
+    "type": "point",
+    "filled": true,
+    "size": 60,
+    "opacity": 0.7
   },
   "encoding": {
-    "column": {
-      "field": "outcome",
-      "type": "nominal",
-      "title": "Movement Outcome",
-      "header": {
-        "titleFontSize": 14,
-        "labelFontSize": 12
-      }
-    },
     "x": {
       "field": "dimension_label",
       "type": "nominal",
       "title": null,
       "axis": {
-        "labelAngle": -45,
-        "labelFontSize": 11
+        "labelAngle": -30,
+        "labelFontSize": 12
       }
     },
     "y": {
       "field": "value",
       "type": "quantitative",
       "title": "Level (1-5 scale)",
-      "scale": {"domain": [1, 5]}
+      "scale": {"domain": [0, 5]},
+      "axis": {"grid": true}
     },
     "color": {
       "field": "outcome",
       "type": "nominal",
+      "title": "Outcome",
       "scale": {
         "domain": ["success", "partial", "mixed", "failure"],
         "range": ["#2E8B57", "#FFB347", "#DDA0DD", "#CD5C5C"]
-      },
-      "legend": null
-    }
+      }
+    },
+    "xOffset": {
+      "field": "outcome",
+      "type": "nominal"
+    },
+    "tooltip": [
+      {"field": "name", "title": "Movement"},
+      {"field": "outcome", "title": "Outcome"},
+      {"field": "dimension_label", "title": "Dimension"},
+      {"field": "value", "title": "Score"}
+    ]
   }
 }
 ```
