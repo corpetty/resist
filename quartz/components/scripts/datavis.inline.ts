@@ -49,11 +49,12 @@ document.addEventListener("nav", async () => {
           view: { stroke: "transparent", ...spec.config?.view },
         }
 
-        // Resolve relative data URLs to static/
+        // Resolve relative data URLs to absolute HTTP URLs
         if (spec.data?.url && !spec.data.url.startsWith("http")) {
+          const origin = window.location.origin
           const pathname = window.location.pathname
           const siteRoot = pathname.substring(0, pathname.indexOf("/", 1)) || ""
-          spec.data.url = `${siteRoot}/static/${spec.data.url}`
+          spec.data.url = `${origin}${siteRoot}/static/${spec.data.url}`
         }
 
         // Create container and replace pre
