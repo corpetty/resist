@@ -30,9 +30,6 @@ Select up to 3 movements to compare across 6 dimensions:
 <div id="radar-chart" style="width:100%; min-height:200px;"></div>
 </div>
 
-<script src="https://d3js.org/d3.v7.min.js"></script>
-<script src="../../static/case-studies-viz.js"></script>
-
 ---
 
 ## By Outcome
