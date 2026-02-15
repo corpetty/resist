@@ -40,6 +40,10 @@ We see this pattern repeatedly. [[Polish Solidarity]] mobilized millions of work
 
 The math doesn't change: you need numbers, and getting numbers requires solving brutal coordination challenges.
 
+<div id="threshold-sim"></div>
+
+*Try adjusting the initial spark percentage above to see how threshold distributions create tipping points—or prevent them entirely. This captures the core mathematical challenge: movements need enough early adopters to trigger cascades, but those early adopters must commit before knowing if others will follow.*
+
 ## The Free Rider Problem
 
 Economist Mancur Olson identified what might be the most annoying challenge to collective action: the free rider problem. In any mass movement, each individual benefits if the movement succeeds, regardless of whether that specific individual participated. If the Montgomery Bus Boycott defeats segregation, all Black residents benefit—including those who continued riding buses and bore no risk.
@@ -49,6 +53,10 @@ This creates perverse incentives that'll make your head hurt. From a purely self
 The problem gets worse: your individual participation rarely determines the outcome. In a movement of thousands or millions, one more or fewer participant makes almost no difference. So even if you'd gladly participate in a *successful* movement, you might rationally conclude that your participation doesn't matter—making non-participation rational even for people who support the cause.
 
 This logic, if universally applied, predicts mass movements should rarely occur. Yet they do. So what the fuck are people doing right when they overcome this?
+
+<div id="free-rider-game"></div>
+
+*Adjust the parameters above to explore when participation becomes individually rational. Notice how small changes in personal impact or participation costs can flip the entire decision calculus. This mathematical reality explains why successful movements work so hard to change these variables.*
 
 Successful movements use multiple strategies:
 
@@ -161,6 +169,84 @@ But small wins carry risks. If intermediate concessions satisfy enough participa
 ## Why Some Movements Actually Pull This Off
 
 Given these extraordinary challenges, you might wonder how movements ever succeed. The answer is not that successful movements eliminate these problems—they manage them, imperfectly, with a lot of luck and timing.
+
+```vega-lite
+{
+  "title": {
+    "text": "Success vs Failure: Patterns Across Key Dimensions",
+    "fontSize": 16,
+    "anchor": "start",
+    "font": "Inter, sans-serif"
+  },
+  "data": {
+    "url": "https://corpetty.github.io/resist/static/movements.json"
+  },
+  "transform": [
+    {
+      "fold": [
+        "radarData.organizationLevel",
+        "radarData.popularSupport", 
+        "radarData.internationalSupport",
+        "radarData.stateRepression",
+        "radarData.violenceLevel"
+      ],
+      "as": ["dimension", "value"]
+    },
+    {
+      "calculate": "replace(datum.dimension, 'radarData.', '')",
+      "as": "dimension_clean"
+    },
+    {
+      "calculate": "datum.dimension_clean == 'organizationLevel' ? 'Organization Level' : datum.dimension_clean == 'popularSupport' ? 'Popular Support' : datum.dimension_clean == 'internationalSupport' ? 'International Support' : datum.dimension_clean == 'stateRepression' ? 'State Repression' : 'Violence Level'",
+      "as": "dimension_label"
+    }
+  ],
+  "width": "container",
+  "height": 300,
+  "mark": {
+    "type": "boxplot",
+    "extent": "min-max",
+    "size": 40
+  },
+  "encoding": {
+    "column": {
+      "field": "outcome",
+      "type": "nominal",
+      "title": "Movement Outcome",
+      "header": {
+        "titleFontSize": 14,
+        "labelFontSize": 12
+      }
+    },
+    "x": {
+      "field": "dimension_label",
+      "type": "nominal",
+      "title": null,
+      "axis": {
+        "labelAngle": -45,
+        "labelFontSize": 11
+      }
+    },
+    "y": {
+      "field": "value",
+      "type": "quantitative",
+      "title": "Level (1-5 scale)",
+      "scale": {"domain": [1, 5]}
+    },
+    "color": {
+      "field": "outcome",
+      "type": "nominal",
+      "scale": {
+        "domain": ["success", "partial", "mixed", "failure"],
+        "range": ["#2E8B57", "#FFB347", "#DDA0DD", "#CD5C5C"]
+      },
+      "legend": null
+    }
+  }
+}
+```
+
+*This chart reveals key patterns: successful movements tend to have higher organization levels and popular support, but face similar repression. The relationship between international support and success is weaker than often assumed.*
 
 Compare successful and failed cases:
 
