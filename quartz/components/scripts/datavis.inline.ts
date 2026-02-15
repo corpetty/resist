@@ -11,10 +11,10 @@ document.addEventListener("nav", async () => {
 
   try {
     // Load vega-embed (includes vega + vega-lite)
-    // Use the ESM module entry point
+    // esm.sh bundles all dependencies for browser-native ESM import
     const mod = await import(
       /* webpackIgnore: true */
-      "https://cdn.jsdelivr.net/npm/vega-embed@6/build/vega-embed.module.js"
+      "https://esm.sh/vega-embed@6"
     )
     const vegaEmbed = mod.default ?? mod.embed
 
