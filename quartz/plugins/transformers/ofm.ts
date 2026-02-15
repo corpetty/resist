@@ -22,6 +22,8 @@ import checkboxScript from "../../components/scripts/checkbox.inline"
 // @ts-ignore
 import mermaidScript from "../../components/scripts/mermaid.inline"
 import mermaidStyle from "../../components/styles/mermaid.inline.scss"
+// @ts-ignore
+import datavisScript from "../../components/scripts/datavis.inline"
 import { FilePath, pathToRoot, slugTag, slugifyFilePath } from "../../util/path"
 import { toHast } from "mdast-util-to-hast"
 import { toHtml } from "hast-util-to-html"
@@ -538,6 +540,29 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
         })
       }
 
+      // Data visualization code blocks (vega-lite, d3)
+      plugins.push(() => {
+        return (tree: Root, file) => {
+          visit(tree, "code", (node: Code) => {
+            if (node.lang === "vega-lite") {
+              ;(file.data as any).hasDataVis = true
+              node.data = {
+                hProperties: {
+                  className: ["vega-lite"],
+                },
+              }
+            } else if (node.lang === "d3") {
+              ;(file.data as any).hasDataVis = true
+              node.data = {
+                hProperties: {
+                  className: ["language-d3"],
+                },
+              }
+            }
+          })
+        }
+      })
+
       return plugins
     },
     htmlPlugins() {
@@ -778,6 +803,14 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
           inline: true,
         })
       }
+
+      // Data visualization (vega-lite, d3)
+      js.push({
+        script: datavisScript,
+        loadTime: "afterDOMReady",
+        contentType: "inline",
+        moduleType: "module",
+      })
 
       return { js, css }
     },

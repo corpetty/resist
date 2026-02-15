@@ -32,6 +32,29 @@ Select up to 3 movements to compare across 6 dimensions:
 
 ---
 
+## Outcomes by Method
+
+```vega-lite
+{
+  "title": "Movement Outcomes by Primary Method",
+  "data": {"url": "movements.json"},
+  "mark": {"type": "bar", "cornerRadiusEnd": 4},
+  "encoding": {
+    "x": {"field": "primaryMethod", "type": "nominal", "title": "Primary Method", "axis": {"labelAngle": 0}},
+    "y": {"aggregate": "count", "title": "Number of Movements"},
+    "color": {
+      "field": "outcome",
+      "type": "nominal",
+      "scale": {"domain": ["success", "partial", "failure"], "range": ["#22c55e", "#f59e0b", "#ef4444"]},
+      "title": "Outcome"
+    },
+    "xOffset": {"field": "outcome"}
+  }
+}
+```
+
+---
+
 ## By Outcome
 
 ### Successful Non-Violent Resistance
