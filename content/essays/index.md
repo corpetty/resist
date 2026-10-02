@@ -15,7 +15,3 @@ A 10-part series exploring the theory, history, and practice of resistance movem
 8. [[08_success_failure_patterns|Success & Failure Patterns]]
 9. [[09_ethics_consequences|Ethics & Consequences]]
 10. [[10_contemporary_challenges|Contemporary Challenges]]
-
-## Also in this space
-
-- [[ratchet|The Ratchet: Why Men Who Change Still Feel Invisible]] — appreciation tracks the *delta* of change, not the new baseline — so the climb is never celebrated once it becomes normal.
